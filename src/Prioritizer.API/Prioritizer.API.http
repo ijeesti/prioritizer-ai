@@ -1,0 +1,6 @@
+@Prioritizer.API_HostAddress = http://localhost:5285
+
+GET {{Prioritizer.API_HostAddress}}/prioritize/
+Accept: application/json
+
+###
