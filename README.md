@@ -44,6 +44,6 @@ Use the provided API project or script to submit a sample request and initiate t
 {
   "proposal": "Add a one-click checkout option to reduce cart abandonment on the e-commerce site.",
   "businessValue": "Expected to increase conversion rate by 15% and reduce friction during checkout.",
-  "requestedBy": "E-commerce Product Lead - Alex Martinez",
+  "requestedBy": "E-commerce Product Lead - Éden Pereira",
   "productName": "ShopEase Web"
 }
