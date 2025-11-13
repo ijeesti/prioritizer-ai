@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MassTransit.RabbitMQ" Version="8.5.5" />
+		<PackageReference Include="MassTransit.Redis" Version="8.5.5" />
+		<PackageReference Include="Microsoft.SemanticKernel" Version="1.66.0" />
+		<ProjectReference Include="..\Prioritizer.Contracts\Prioritizer.Contracts.csproj" />
+	</ItemGroup>
+
+</Project>
